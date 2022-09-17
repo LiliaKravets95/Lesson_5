@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,300&family=Roboto:wght@100&display=swap');
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format(woff2), url("../fonts/Larsseit-Bold.woff") format(woff);
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format(woff), url("../fonts/Larsseit-Medium.woff2") format(woff);
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+
+
+div {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	color: rgb(255, 0, 140);
+	text-align: center;
+	padding: 10px;
+	text-decoration: underline;
+	font-size: 18px;
+}
+
+header {
+	font-family: "Larsseit", sans-serif;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 10px;
+	background-color: rgb(255, 0, 221, 0.619);
+
+}
+
+h1 {
+	font-family: "Larsseit", sans-serif;
+	font-weight: 700;
+	color: rgba(53, 10, 84, 0.623);
+}
+
+h2 {
+	font-family: "Larsseit", sans-serif;
+	font-weight: 700;
+	color: rgba(28, 5, 50, 0.737);
+}
+
+h3 {
+	font-family: "Larsseit", sans-serif;
+	font-weight: 700;
+	color: rgba(65, 9, 58, 0.134);
+}
+
+footer {
+	font-family: "Larsseit";
+	font-weight: 500;
+	font-style: medium;
+	color: rgba(220, 20, 183, 0.408);
+	text-align: center;
+	text-decoration: line-through;
+}
+
+img {
+	margin: 20px 10px 0px 20px;
+}
